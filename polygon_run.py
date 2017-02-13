@@ -16,4 +16,5 @@ def get_user_input():
 	return coordinates
 
 if __name__ == "__main__":
-	print(polygon.polygon_area(get_user_input()))
+    data = get_user_input()
+    print(polygon.polygon_area(data))
