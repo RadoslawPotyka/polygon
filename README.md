@@ -1,7 +1,7 @@
-<h1>Œrodowiska i narzêdzia wytwarzania oprogramowania</h1>
-<h2>Rados³aw Potyka</h2>
+<h1>Srodowiska i narzêdzia wytwarzania oprogramowania</h1>
+<h2>Radoslaw Potyka</h2>
 
-Fukcja wykonuj¹ca oblicznaia zawarta jest w pliku polygon.py. Aby wprowadziæ w³asne dane nale¿y uruchomiæ program polygon_run:
+Fukcja wykonujaca oblicznaia zawarta jest w pliku polygon.py. Aby wprowadziæ wlasne dane nalezy uruchomic program polygon_run:
 
 <div class="highlight highlight-source-shell"><pre>
 $ python polygon_run.py
